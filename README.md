@@ -1,4 +1,4 @@
-# Mmaskditection
+# Mask Detection
 
 There are data files here that need to be opened using a ZIP file. The data was prepared by the roboflow website.
 The only thing that needs to change is the line:
